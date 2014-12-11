@@ -15,6 +15,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
     - [Courses](#courses)
     - [Conferences](#conferences)
     - [E-Books](#ebooks)
+    - [Help](#help)
     - [Video](#video)
  
 
@@ -35,6 +36,14 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Angular UI](https://angular-ui.github.io/) - The companion suite(s) to the AngularJS framework.
 * [Material Angular](https://material.angularjs.org/#/) - AngularJS UI elements that implement the (material design)[http://www.google.com/design/spec/material-design/introduction.html] system.
 * [Mobile Angular UI](http://mobileangularui.com/) - Mobile UI framework.
+
+## Architecture
+* [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917)
+* [Requiring vs Browserifying Angular](http://developer.telerik.com/featured/requiring-vs-browerifying-angular/)
+* [DEVELOPER BLOG](http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
+* [Structuring an Angular Project](http://www.johnpapa.net/structuring-an-angular-project/)
+* [Code Organization in Large AngularJS and JavaScript Applications](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
+* [Lazy Loading In AngularJS](http://ify.io/lazy-loading-in-angularjs/)
 
 
 ## Blogs
