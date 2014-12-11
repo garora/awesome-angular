@@ -28,7 +28,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 
 ## Conferences
 
-* List of conferences going around the world
+*List of conferences going around the world
 
 * [Anglebrackets](https://anglebrackets.org/)
 * [ng-conf](http://www.ng-conf.org/)
@@ -39,7 +39,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 
 ## Video
 
-* Videos for understanding and getting familiar with AngularJS
+*Videos for understanding and getting familiar with AngularJS
 
 * [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM) - AngularJS JumpStart to learn AngularJS
 * [AngularJS Fundamentals for Rapid HTML5 Development](https://www.youtube.com/watch?v=ec99SDwSyeI) - AngularJS from the ground up in manner suitable for designers, developers
