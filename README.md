@@ -18,6 +18,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
     - [Conferences](#conferences)
     - [E-Books](#ebooks)
     - [Help](#help)
+    - [Routing](#routing)
     - [Scopes](#scopes)
     - [Video](#video)
  
@@ -142,6 +143,24 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Chatroom](http://webchat.freenode.net/?channels=angularjs&uio=d4) - Browser-based IRC
 * [Reddit](http://www.reddit.com/r/angularjs)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/angularjs)
+
+
+## Routing
+
+* [Advanced routing and resolves] (https://medium.com/opinionated-angularjs/a2fcbf874a1c)
+* [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
+* [Angular UI router](http://angular-ui.github.io/ui-router/sample/#/)
+* [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router] (http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
+* [AngularJS Routing Using UI-Router] (http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
+* [AngularJS Routing And Views Tutorial With Example](http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example)
+* [AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
+* [Cancelling Route Navigation in AngularJS Controllers] (http://weblogs.asp.net/dwahlin/archive/2013/11/07/cancelling-route-navigation-in-angularjs-controllers.aspx)
+* [Extending Dynamic View Loading for CRUD actions in AngularJS] (http://circuitbomb.com/anjularjs-extending-dynamic-view-loading-crud-actions/)
+* [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
+* [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
+* [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
+* [The basics of using ui-router with AngularJS] (http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
+* [Using Resolve In AngularJS Routes] (http://odetocode.com/blogs/scott/archive/2014/05/20/using-resolve-in-angularjs-routes.aspx)
 
 
 ## Scopes
