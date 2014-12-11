@@ -1,5 +1,5 @@
+[![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
 
-[forthebadge](http://forthebadge.com/badges/built-with-love.svg)
 
 # Awesome Angular
 
