@@ -1,4 +1,5 @@
-http://forthebadge.com/badges/built-with-love.svg
+
+[forthebadge](http://forthebadge.com/badges/built-with-love.svg)
 
 # Awesome Angular
 
@@ -82,7 +83,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 
 ## Courses
 
-*Interactive vidoes courses ot learn angular*
+*Interactive vidoes courses to learn angular*
 
 * [AngularJS Tutorial - Learn Angular by building a Gmail clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone) – Mini AngularJS course with video
 * [AngularJS Tutorial: Learn to Build Modern Web Apps with MEAN](https://thinkster.io/angulartutorial/mean-stack-tutorial/)
@@ -101,7 +102,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 
 ## Conferences
 
-*List of conferences going around the world.*
+*List of conferences on Angular.*
 
 * [Anglebrackets](https://anglebrackets.org/)
 * [ng-conf](http://www.ng-conf.org/)
