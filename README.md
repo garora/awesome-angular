@@ -3,7 +3,7 @@
 
 # Awesome Angular
 
-A curated list of awesome Angular Courses, tutorial, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome angular Courses, tutorial, libraries and tricks. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Contributing
 
