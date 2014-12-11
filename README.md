@@ -10,6 +10,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 
 - [Awesome Angular](#awesome-angular)
     - [Getting Started with AngularJS](#gettingangular)
+    - [Conferences](#conferences)
     - [Video](#video)
  
 
@@ -23,6 +24,18 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Learn Angular](http://learn-angular.org/) - Learn AngularJS with free interactive lessons.
 * [Thinkster](http://www.thinkster.io/)  - How to build and deploy full single-page web applications using AngularJS
 * [ngMario](http://karol-f.github.io/ngMario/#/home) - Learn AngularJS playing Super Mario Brothers.
+
+
+## Conferences
+
+* List of conferences going around the world
+
+* [Anglebrackets](https://anglebrackets.org/)
+* [ng-conf](http://www.ng-conf.org/)
+* [ng-conf Israel](http://ng-conf.gdg.co.il/)
+* [ngeurope](http://ngeurope.org/)
+
+
 
 ## Video
 
