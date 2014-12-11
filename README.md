@@ -11,6 +11,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 - [Awesome Angular](#awesome-angular)
     - [Getting Started with AngularJS](#gettingangular)
     - [Angular UI](#angularui)
+    - [Blogs](#blogs)
     - [Conferences](#conferences)
     - [E-Books](#ebooks)
     - [Video](#video)
@@ -31,8 +32,17 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 ## Angular UI
 
 * [Angular UI](https://angular-ui.github.io/) - The companion suite(s) to the AngularJS framework.
-* [Material Angular](https://material.angularjs.org/#/) - AngularJS UI elements that implement the (material design)[http://www.google.com/design/spec/material-design/introduction.html] system
-* [Mobile Angular UI](http://mobileangularui.com/) - Mobile UI framework
+* [Material Angular](https://material.angularjs.org/#/) - AngularJS UI elements that implement the (material design)[http://www.google.com/design/spec/material-design/introduction.html] system.
+* [Mobile Angular UI](http://mobileangularui.com/) - Mobile UI framework.
+
+
+## Blogs
+
+* [Angular Tips](http://angular-tips.com/) - Tips on Angular
+* [Onehungrymind](http://onehungrymind.com/) - Hungry for Angular then this is right spot.
+* [Revolunet](http://blog.revolunet.com/) - Web development cool stuff
+* [Scotch.io](http://scotch.io/tag/angular-js) - Awesome stuff you can do with angular.
+* [Yearofmoo](http://www.yearofmoo.com/) - Delicious Angular
 
 
 ## Conferences
