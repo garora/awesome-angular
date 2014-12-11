@@ -1,6 +1,8 @@
+http://forthebadge.com/badges/built-with-love.svg
+
 # Awesome Angular
 
-A curated list of awesome Angular frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome Angular Courses, tutorial, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Contributing
 
@@ -60,12 +62,12 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 ## Authentication
 
 * [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
-* [Authentication in Single Page Applications] (https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
-* [Authentication with AngularJS] (https://medium.com/p/4e927af3a15f)
-* [Cookies vs Tokens. Getting auth right with Angular.JS] (http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
-* [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
+* [Authentication in Single Page Applications](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
+* [Authentication with AngularJS](https://medium.com/p/4e927af3a15f)
+* [Cookies vs Tokens. Getting auth right with Angular.JS](http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+* [Deal with users authentication in an AngularJS web app](http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
 * [Implementing Authentication in Angular Applications](http://www.sitepoint.com/implementing-authentication-angular-applications)
-* [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/7bbf0346acec)
+* [Techniques for authentication in AngularJS applications](https://medium.com/opinionated-angularjs/7bbf0346acec)
 
 
 
@@ -109,35 +111,35 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 
 ## Directives
 
-* [An all-in-one directive-controller with AngularJS] (http://icelab.com.au/articles/an-all-in-one-directive-controller-with-angularjs/)
-* [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
-* [AngularJS Directives - Domain-Specific Extensions to HTML] (http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html)
-* [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
-* [AngularJS Directive for Mobile Sliders] (http://ngokevin.com/blog/angularslider/)
-* [Angular.js directives – Difference between controller and link] (http://jasonmore.net/angular-js-directives-difference-controller-link/)
-* [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
-* [AngularJS Directive Design Made Easy] (http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
-* [AngularJS and $compile] (http://www.phase2technology.com/blog/angularjs-and-compile/)
-* [AngularJS: Referencing the parent scope in a directive] (http://www.grobmeier.de/angularjs-referencing-parent-scope-directive-23082013.html)
-* [Building Nested Recursive Directives in Angular] (http://sporto.github.io/blog/2013/06/24/nested-recursive-directives-in-angular/)
-* [Creating an AngularJS Directive from one of your existing plugins/scripts] (http://toddmotto.com/creating-an-angularjs-directive-from-one-of-your-existing-plugins-scripts/)
+* [An all-in-one directive-controller with AngularJS](http://icelab.com.au/articles/an-all-in-one-directive-controller-with-angularjs/)
+* [AngularJS directives and the computer science of JavaScript](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
+* [AngularJS Directives - Domain-Specific Extensions to HTML](http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html)
+* [AngularJS Directives Tutorial](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
+* [AngularJS Directive for Mobile Sliders](http://ngokevin.com/blog/angularslider/)
+* [Angular.js directives – Difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
+* [AngularJS Directives Tutorial](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
+* [AngularJS Directive Design Made Easy](http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
+* [AngularJS and $compile](http://www.phase2technology.com/blog/angularjs-and-compile/)
+* [AngularJS: Referencing the parent scope in a directive](http://www.grobmeier.de/angularjs-referencing-parent-scope-directive-23082013.html)
+* [Building Nested Recursive Directives in Angular](http://sporto.github.io/blog/2013/06/24/nested-recursive-directives-in-angular/)
+* [Creating an AngularJS Directive from one of your existing plugins/scripts](http://toddmotto.com/creating-an-angularjs-directive-from-one-of-your-existing-plugins-scripts/)
 * [Creating Semantic, Reusable Directives in AngularJS](http://jaysoo.ca/2014/01/20/semantic-angularjs-directives/)
-* [Designing AngularJS Directives] (http://engineering.nulogy.com/posts/designing-angularjs-directives/)
-* [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS] (http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
-* [How to integrate your UI Widgets with AngularJS] (http://blog.mobiscroll.com/how-to-integrate-your-ui-widgets-with-angularjs/)
+* [Designing AngularJS Directives](http://engineering.nulogy.com/posts/designing-angularjs-directives/)
+* [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS](http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
+* [How to integrate your UI Widgets with AngularJS](http://blog.mobiscroll.com/how-to-integrate-your-ui-widgets-with-angularjs/)
 * [In-depth directives](http://www.ng-newsletter.com/posts/directives.html)
-* [Looking At Attribute Interpolation Workflow Changes In AngularJS] (http://www.bennadel.com/blog/2650-looking-at-attribute-interpolation-workflow-changes-in-angularjs.htm)
-* [Moving Data In An AngularJS Directive] (http://odetocode.com/blogs/scott/archive/2013/09/11/moving-data-in-an-angularjs-directive.aspx)
-* [Refactoring to AngularJS Directive] (http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
-* [Run a directive after the DOM has finished rendering] (http://blog.brunoscopelliti.com/run-a-directive-after-the-dom-has-finished-rendering)
-* [Shadowing Isolate Scope Behaviors In AngularJS] (http://www.bennadel.com/blog/2647-shadowing-isolate-scope-behaviors-in-angularjs.htm)
-* [The ngForm directive of AngularJS] (http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
-* [Tip: Directives With the Same Name] (http://angular-tips.com/blog/2013/08/tip-directives-with-the-same-name/)
-* [The Hitchhiker’s Guide to the Directive] (http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
-* [Use jQuery Plugin With AngularJS the Easy (Lazy) Way] (http://iarouse.com/blog/2013/11/14/use-jquery-plugin-with-angularjs-the-easy-lazy-way/)
-* [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
-* [Using Namespaces For One-Off Directives In AngularJS] (http://www.bennadel.com/blog/2494-Using-Namespaces-For-One-Off-Directives-In-AngularJS.htm)
-* [Writing More Maintainable Angular.js Directives] (http://www.codelord.net/2014/03/30/writing-more-maintainable-angular-dot-js-directives/)
+* [Looking At Attribute Interpolation Workflow Changes In AngularJS](http://www.bennadel.com/blog/2650-looking-at-attribute-interpolation-workflow-changes-in-angularjs.htm)
+* [Moving Data In An AngularJS Directive](http://odetocode.com/blogs/scott/archive/2013/09/11/moving-data-in-an-angularjs-directive.aspx)
+* [Refactoring to AngularJS Directive](http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
+* [Run a directive after the DOM has finished rendering](http://blog.brunoscopelliti.com/run-a-directive-after-the-dom-has-finished-rendering)
+* [Shadowing Isolate Scope Behaviors In AngularJS](http://www.bennadel.com/blog/2647-shadowing-isolate-scope-behaviors-in-angularjs.htm)
+* [The ngForm directive of AngularJS](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
+* [Tip: Directives With the Same Name](http://angular-tips.com/blog/2013/08/tip-directives-with-the-same-name/)
+* [The Hitchhiker’s Guide to the Directive](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
+* [Use jQuery Plugin With AngularJS the Easy (Lazy) Way](http://iarouse.com/blog/2013/11/14/use-jquery-plugin-with-angularjs-the-easy-lazy-way/)
+* [Using Controllers In Directives In AngularJS](http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
+* [Using Namespaces For One-Off Directives In AngularJS](http://www.bennadel.com/blog/2494-Using-Namespaces-For-One-Off-Directives-In-AngularJS.htm)
+* [Writing More Maintainable Angular.js Directives](http://www.codelord.net/2014/03/30/writing-more-maintainable-angular-dot-js-directives/)
 
 
 ## E-Books
@@ -155,7 +157,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
 * [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
 * [Common Problems (And Solutions) When Using Select Elements With Angular.JS](http://gurustop.net/blog/2014/01/28/common-problems-and-solutions-when-using-select-elements-with-angular-js-ng-options-initial-selection/)
-* [Handling Checkboxes and Radio Buttons in Angular Forms] (http://scotch.io/tutorials/javascript/handling-checkboxes-and-radio-buttons-in-angular-forms)
+* [Handling Checkboxes and Radio Buttons in Angular Forms](http://scotch.io/tutorials/javascript/handling-checkboxes-and-radio-buttons-in-angular-forms)
 * [HTML Forms in AngularJS](http://www.sitepoint.com/html-forms-angularjs/)
 * [Using CSRF protection with Express and AngularJS](http://www.mircozeiss.com/using-csrf-with-express-and-angular/)
 * [Validation in angular.js ng-repeat](http://www.mikitamanko.com/blog/2014/02/11/validation-in-angular-js-ng-repeat/)
@@ -172,20 +174,20 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 
 ## Routing
 
-* [Advanced routing and resolves] (https://medium.com/opinionated-angularjs/a2fcbf874a1c)
-* [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
+* [Advanced routing and resolves](https://medium.com/opinionated-angularjs/a2fcbf874a1c)
+* [AngularJS State Management with ui-router](http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
 * [Angular UI router](http://angular-ui.github.io/ui-router/sample/#/)
-* [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router] (http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
-* [AngularJS Routing Using UI-Router] (http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
+* [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router](http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
+* [AngularJS Routing Using UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
 * [AngularJS Routing And Views Tutorial With Example](http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example)
-* [AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
-* [Cancelling Route Navigation in AngularJS Controllers] (http://weblogs.asp.net/dwahlin/archive/2013/11/07/cancelling-route-navigation-in-angularjs-controllers.aspx)
-* [Extending Dynamic View Loading for CRUD actions in AngularJS] (http://circuitbomb.com/anjularjs-extending-dynamic-view-loading-crud-actions/)
-* [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
-* [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
+* [AngularJS Routing Changes](http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
+* [Cancelling Route Navigation in AngularJS Controllers](http://weblogs.asp.net/dwahlin/archive/2013/11/07/cancelling-route-navigation-in-angularjs-controllers.aspx)
+* [Extending Dynamic View Loading for CRUD actions in AngularJS](http://circuitbomb.com/anjularjs-extending-dynamic-view-loading-crud-actions/)
+* [How to defer route definition in an AngularJS web app](http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
+* [Nested Views, Routing, And Deep Linking With AngularJS](http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
 * [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
-* [The basics of using ui-router with AngularJS] (http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
-* [Using Resolve In AngularJS Routes] (http://odetocode.com/blogs/scott/archive/2014/05/20/using-resolve-in-angularjs-routes.aspx)
+* [The basics of using ui-router with AngularJS](http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
+* [Using Resolve In AngularJS Routes](http://odetocode.com/blogs/scott/archive/2014/05/20/using-resolve-in-angularjs-routes.aspx)
 
 
 ## Scopes
