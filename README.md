@@ -12,6 +12,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
     - [Getting Started with AngularJS](#gettingangular)
     - [Architecture](#Architecture)
     - [Angular UI](#angularui)
+    - [Authentication](#authentication)
     - [Blogs](#blogs)
     - [Courses](#courses)
     - [Directives](#directive)
@@ -54,6 +55,18 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Structuring an Angular Project](http://www.johnpapa.net/structuring-an-angular-project/)
 * [Code Organization in Large AngularJS and JavaScript Applications](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
 * [Lazy Loading In AngularJS](http://ify.io/lazy-loading-in-angularjs/)
+
+
+## Authentication
+
+* [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
+* [Authentication in Single Page Applications] (https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
+* [Authentication with AngularJS] (https://medium.com/p/4e927af3a15f)
+* [Cookies vs Tokens. Getting auth right with Angular.JS] (http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+* [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
+* [Implementing Authentication in Angular Applications](http://www.sitepoint.com/implementing-authentication-angular-applications)
+* [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/7bbf0346acec)
+
 
 
 ## Blogs
