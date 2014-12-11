@@ -149,6 +149,18 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
 
 
+## Forms and validation
+
+* ["Add more element" form with Angular](http://blog.chorip.am/articles/add-more-form-style-the-nice-way-with-angularjs/)
+* [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
+* [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
+* [Common Problems (And Solutions) When Using Select Elements With Angular.JS](http://gurustop.net/blog/2014/01/28/common-problems-and-solutions-when-using-select-elements-with-angular-js-ng-options-initial-selection/)
+* [Handling Checkboxes and Radio Buttons in Angular Forms] (http://scotch.io/tutorials/javascript/handling-checkboxes-and-radio-buttons-in-angular-forms)
+* [HTML Forms in AngularJS](http://www.sitepoint.com/html-forms-angularjs/)
+* [Using CSRF protection with Express and AngularJS](http://www.mircozeiss.com/using-csrf-with-express-and-angular/)
+* [Validation in angular.js ng-repeat](http://www.mikitamanko.com/blog/2014/02/11/validation-in-angular-js-ng-repeat/)
+
+
 ## Help
 
 * [AngularJS Mailing List](http://groups.google.com/group/angular) - Official Google Groups.
